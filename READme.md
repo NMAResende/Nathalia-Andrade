@@ -1,5 +1,5 @@
-Exercicios sobre git. 
+Exercicios sobre Git e GitHub. 
 
-Aprendizado do curso sobre o git.
+Aprendizado do curso para instalação do git no terminal e envio dos projetos para o repertório remoto do GitHub.
 
-Uma obs sobre o readme.md é sobre a descrição do projeto.
+Aprendizado de como fazer um READme.md de forma clara e obetiva.
